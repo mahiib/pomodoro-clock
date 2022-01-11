@@ -1,6 +1,6 @@
-#This is a pomodoro clock (timer), it is built using React JS.
+# This is a pomodoro clock (timer), it is built using React JS.
 
-#The pomodoro clock works on these six steps:
+# The pomodoro clock works on these six steps:
 
 1.Decide on the task to be done.
 2.Set the pomodoro timer (typically for 25 minutes).[1]
